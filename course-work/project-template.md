@@ -1,4 +1,4 @@
-Farfetch Platform Clone
+Farfetch Platform 
 
 Версия: 1.0
 Дата: 2025-11-05
